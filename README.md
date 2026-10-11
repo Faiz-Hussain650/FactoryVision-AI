@@ -259,6 +259,4 @@ Implemented: multi-category PatchCore evaluation, explainability review, verifie
 
 Pending external dependency: live Azure resource provisioning after an active Azure subscription becomes available.
 
-## Author
 
-Developed and maintained by **Chaima Menouar**.
